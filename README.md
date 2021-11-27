@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chandrasekhar Kanakala
 - 👀 I’m interested in Java and Artificial Inteligence
-- 🌱 I’m currently learning Data Science & Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science & Deep Learning with Tensorflow
 - 📫 How to reach me https://www.linkedin.com/in/chandrasekharkanakala/
 
 <!---
